@@ -52,7 +52,7 @@ Verbex is a state-of-the-art meeting intelligence platform designed to transform
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LIKHITH-M/VerbexAI.git
+   git clone https://github.com/keerthanabm/VerbexAI.git
    cd VerbexAI
    ```
 
